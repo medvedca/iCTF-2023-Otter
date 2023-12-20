@@ -10,7 +10,7 @@ The suggested solution has not been beautified and, I am sure, it is not the mos
 to improve if you have time in your pocket :wink:  
 
 ### THE CHALLENGE:
-You open your mailbox and find a strange postcard (invite.bmp). Flipping it around, you squint your eyes 
+You open your mailbox and find a strange postcard (*input-otter-image.mp*). Flipping it around, you squint your eyes 
 and try to decipher the wobbly handwriting:
 
 - **MYSTERIOUS INVITE**: 'On this most auspicious end of year, I otter invite you to my most magnanimous island party!'
